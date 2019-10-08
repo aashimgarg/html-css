@@ -1,1 +1,2 @@
-MY First Web Template
+
+Web Template
