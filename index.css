@@ -1,0 +1,23 @@
+.first{
+border-left:3px solid #bdc3c7;
+padding-left:5px;}
+
+.second{
+border-left:3px solid #bdc3c7;
+padding-left:5px;}
+
+.third{
+letter-spacing: 2px;
+color:#3498db; }
+
+body{
+margin:20px auto;
+border:20px solid #bdc3c7;
+padding:20px;
+font-family:source sans pro;
+width:700px;
+}
+
+.fourth{
+padding-bottom: 14px;
+}
